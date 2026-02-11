@@ -1,0 +1,11 @@
+﻿brand,model,product_name,anomaly_price,market_mean_price,deviation_percent,anomaly_type,z_score,source,seller,condition,city
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",7300.0,4645.057361757106,57.15629391578917,trop_haut,1.99237083534302,Avito,hanane,good,Casablanca
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",1800.0,4645.057361757106,61.24913300706568,trop_bas,2.1350402192471876,Avito,anas,used,Kénitra
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",2000.0,4645.057361757106,56.94348111896187,trop_bas,1.9849525445348164,Avito,omar,used,Mohammedia
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",7300.0,4645.057361757106,57.15629391578917,trop_haut,1.99237083534302,Avito,OUIRGHANE ZAKARIA,good,Ouarzazate
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",99.0,4645.057361757106,97.86870231538862,trop_bas,3.4115358926759045,Avito,Zakaria ,used,Casablanca
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",7300.0,4645.057361757106,57.15629391578917,trop_haut,1.99237083534302,Avito,Hamid,new,Taroudant
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",2000.0,4645.057361757106,56.94348111896187,trop_bas,1.9849525445348164,Avito,bader eddine ,used,Taourirt
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",1900.0,4645.057361757106,59.096307063013775,trop_bas,2.059996381891002,Avito,Akh,used,Agadir
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",7699.0,4645.057361757106,65.74606943255628,trop_haut,2.2917957463942007,Avito,Mehdii,used,Marrakech
+Apple,IPHONE 14,"Apple iPhone 14 – 6.1"" – 128 Go – 6 Go RAM - Minuit – Bionic A15",1800.0,4645.057361757106,61.24913300706568,trop_bas,2.1350402192471876,Avito,Ismail Chrifi Alaoui,used,Boukhalef

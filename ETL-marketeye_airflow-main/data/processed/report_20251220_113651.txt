@@ -1,0 +1,16 @@
+
+            ===========================================
+            RAPPORT ETL MARKETEYE - 2025-12-20 11:36
+            ===========================================
+            
+            📊 RÉSUMÉ:
+            - Produits uniques: 5672
+            - Offres totales: 25558
+            - Prix moyen: 3793.62 MAD
+            - Prix min: 1.00 MAD
+            - Prix max: 99900.00 MAD
+            
+            🌐 SOURCES: Jumia, Avito, Electroplanet
+            
+            ✅ Pipeline exécuté avec succès!
+            

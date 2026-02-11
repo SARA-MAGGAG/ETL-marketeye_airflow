@@ -1,0 +1,232 @@
+{
+  "analysis_date": "2026-01-02 18:42:38",
+  "total_products": 3687,
+  "total_groups": 1,
+  "anomalies_detected": 34,
+  "groups_with_anomalies": 1,
+  "anomalies_by_group": [
+    {
+      "group_key": "apple_iphone_14",
+      "brand": "Apple",
+      "model": "IPHONE 14",
+      "product_name": "Apple iPhone 14 – 6.1\" – 128 Go – 6 Go RAM - Minuit – Bionic A15",
+      "total_offers": 387,
+      "market_mean": 4645.057361757106,
+      "market_median": 4600.0,
+      "price_range": "13-9500",
+      "anomalies_count": 34,
+      "anomalies": [
+        {
+          "price": 7300.0,
+          "type": "trop_haut",
+          "deviation_percent": 57.15629391578917,
+          "market_mean": 4645.057361757106,
+          "z_score": 1.99237083534302,
+          "offer_details": {
+            "source": "Avito",
+            "price": 7300.0,
+            "currency": "MAD",
+            "condition": "good",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Casablanca",
+              "area": "Sidi Maarouf"
+            },
+            "url": "https://www.avito.ma/vi/57287978.htm",
+            "seller_name": "hanane",
+            "scraped_at": "2025-12-07T22:22:01Z"
+          }
+        },
+        {
+          "price": 1800.0,
+          "type": "trop_bas",
+          "deviation_percent": 61.24913300706568,
+          "market_mean": 4645.057361757106,
+          "z_score": 2.1350402192471876,
+          "offer_details": {
+            "source": "Avito",
+            "price": 1800.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Kénitra",
+              "area": "Centre"
+            },
+            "url": "https://www.avito.ma/vi/57267880.htm",
+            "seller_name": "anas",
+            "scraped_at": "2025-12-02T14:48:15Z"
+          }
+        },
+        {
+          "price": 2000.0,
+          "type": "trop_bas",
+          "deviation_percent": 56.94348111896187,
+          "market_mean": 4645.057361757106,
+          "z_score": 1.9849525445348164,
+          "offer_details": {
+            "source": "Avito",
+            "price": 2000.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Mohammedia",
+              "area": "Centre Ville"
+            },
+            "url": "https://www.avito.ma/vi/57261250.htm",
+            "seller_name": "omar",
+            "scraped_at": "2025-11-30T20:05:00Z"
+          }
+        },
+        {
+          "price": 7300.0,
+          "type": "trop_haut",
+          "deviation_percent": 57.15629391578917,
+          "market_mean": 4645.057361757106,
+          "z_score": 1.99237083534302,
+          "offer_details": {
+            "source": "Avito",
+            "price": 7300.0,
+            "currency": "MAD",
+            "condition": "good",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Ouarzazate",
+              "area": "Toute la ville"
+            },
+            "url": "https://www.avito.ma/vi/57242395.htm",
+            "seller_name": "OUIRGHANE ZAKARIA",
+            "scraped_at": "2025-11-25T23:08:00Z"
+          }
+        },
+        {
+          "price": 99.0,
+          "type": "trop_bas",
+          "deviation_percent": 97.86870231538862,
+          "market_mean": 4645.057361757106,
+          "z_score": 3.4115358926759045,
+          "offer_details": {
+            "source": "Avito",
+            "price": 99.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Casablanca",
+              "area": "2 Mars"
+            },
+            "url": "https://www.avito.ma/vi/57223094.htm",
+            "seller_name": "Zakaria ",
+            "scraped_at": "2025-11-20T21:45:01Z"
+          }
+        },
+        {
+          "price": 7300.0,
+          "type": "trop_haut",
+          "deviation_percent": 57.15629391578917,
+          "market_mean": 4645.057361757106,
+          "z_score": 1.99237083534302,
+          "offer_details": {
+            "source": "Avito",
+            "price": 7300.0,
+            "currency": "MAD",
+            "condition": "new",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Taroudant",
+              "area": "Toute la ville"
+            },
+            "url": "https://www.avito.ma/vi/57219387.htm",
+            "seller_name": "Hamid",
+            "scraped_at": "2025-11-20T00:54:06Z"
+          }
+        },
+        {
+          "price": 2000.0,
+          "type": "trop_bas",
+          "deviation_percent": 56.94348111896187,
+          "market_mean": 4645.057361757106,
+          "z_score": 1.9849525445348164,
+          "offer_details": {
+            "source": "Avito",
+            "price": 2000.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Taourirt",
+              "area": "Toute la ville"
+            },
+            "url": "https://www.avito.ma/vi/57214926.htm",
+            "seller_name": "bader eddine ",
+            "scraped_at": "2025-11-18T22:52:01Z"
+          }
+        },
+        {
+          "price": 1900.0,
+          "type": "trop_bas",
+          "deviation_percent": 59.096307063013775,
+          "market_mean": 4645.057361757106,
+          "z_score": 2.059996381891002,
+          "offer_details": {
+            "source": "Avito",
+            "price": 1900.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Agadir",
+              "area": "Autre secteur"
+            },
+            "url": "https://www.avito.ma/vi/57206760.htm",
+            "seller_name": "Akh",
+            "scraped_at": "2025-11-16T20:44:30Z"
+          }
+        },
+        {
+          "price": 7699.0,
+          "type": "trop_haut",
+          "deviation_percent": 65.74606943255628,
+          "market_mean": 4645.057361757106,
+          "z_score": 2.2917957463942007,
+          "offer_details": {
+            "source": "Avito",
+            "price": 7699.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Marrakech",
+              "area": "Massira 1"
+            },
+            "url": "https://www.avito.ma/vi/57177761.htm",
+            "seller_name": "Mehdii",
+            "scraped_at": "2025-11-09T13:08:44Z"
+          }
+        },
+        {
+          "price": 1800.0,
+          "type": "trop_bas",
+          "deviation_percent": 61.24913300706568,
+          "market_mean": 4645.057361757106,
+          "z_score": 2.1350402192471876,
+          "offer_details": {
+            "source": "Avito",
+            "price": 1800.0,
+            "currency": "MAD",
+            "condition": "used",
+            "seller_type": "PRIVATE",
+            "location": {
+              "city": "Boukhalef",
+              "area": "Toute la ville"
+            },
+            "url": "https://www.avito.ma/vi/57168200.htm",
+            "seller_name": "Ismail Chrifi Alaoui",
+            "scraped_at": "2025-11-06T18:22:01Z"
+          }
+        }
+      ]
+    }
+  ]
+}

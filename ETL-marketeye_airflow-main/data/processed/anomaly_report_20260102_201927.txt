@@ -1,0 +1,65 @@
+================================================================================
+RAPPORT DE DÉTECTION D'ANOMALIES DE PRIX
+================================================================================
+
+Date d'analyse: 2026-01-02 20:19:28
+Produits analysés: 1124
+Produits avec anomalies: 312
+Total anomalies: 1170
+Écart moyen: 78.2%
+
+RÉPARTITION DES ANOMALIES:
+  • TROP_BAS: 582 (49.7%)
+  • TROP_HAUT: 588 (50.3%)
+
+TOP 10 ANOMALIES LES PLUS GRAVES:
+
+1. Apple IPHONE 16
+   Prix: 79900.00 MAD (marché: 7966.51 MAD)
+   Écart: 902.9% trop_haut
+   Produit: iPhone 16 comme neuf avec garantie de 2 ans de l'étranger...
+
+2. Apple IPHONE 11
+   Prix: 19500.00 MAD (marché: 2342.52 MAD)
+   Écart: 732.4% trop_haut
+   Produit: iPhone 11 en bon état, 64gb, 87btr. prix négociable...
+
+3. Samsung A06
+   Prix: 999.00 MAD (marché: 129.95 MAD)
+   Écart: 668.8% trop_haut
+   Produit: Samsung Galaxy A06 – 6,7" HD+ – 6 Go RAM – 128 Go ROM – Double SIM – Batterie Lo...
+
+4. Samsung A06
+   Prix: 999.00 MAD (marché: 129.95 MAD)
+   Écart: 668.8% trop_haut
+   Produit: Samsung Galaxy A06 – 6,7" HD+ – 6 Go RAM – 128 Go ROM – Double SIM – Batterie Lo...
+
+5. Samsung A06
+   Prix: 999.00 MAD (marché: 129.95 MAD)
+   Écart: 668.8% trop_haut
+   Produit: Samsung Galaxy A06 – 6,7" HD+ – 6 Go RAM – 128 Go ROM – Double SIM – Batterie Lo...
+
+6. Apple IPHONE 12
+   Prix: 22000.00 MAD (marché: 2978.04 MAD)
+   Écart: 638.7% trop_haut
+   Produit: iphone 12 128G (fih wa7d chwia k7olia f afficheur)...
+
+7. Samsung SAMSUNG A05
+   Prix: 8000.00 MAD (marché: 1101.25 MAD)
+   Écart: 626.4% trop_haut
+   Produit: هاتف سامسونغ 05 حالة جديدة البتارية جيدة 64gb/4ram...
+
+8. Samsung SAMSUNG A36
+   Prix: 32000.00 MAD (marché: 4493.48 MAD)
+   Écart: 612.1% trop_haut
+   Produit: Samsung A36 5G encore dans son carton scellé...
+
+9. Apple IPHONE 16
+   Prix: 49900.00 MAD (marché: 7966.51 MAD)
+   Écart: 526.4% trop_haut
+   Produit: iPhone 16 comme neuf avec garantie de 2 ans de l'étranger...
+
+10. Samsung SAMSUNG S9
+   Prix: 7000.00 MAD (marché: 1121.74 MAD)
+   Écart: 524.0% trop_haut
+   Produit: Samsung s9 modele 2022 de france et M10 leziattes...

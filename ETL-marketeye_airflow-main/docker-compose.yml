@@ -1,0 +1,78 @@
+  # docker-compose.yml
+  services:
+    postgres:
+      image: postgres:13
+      environment:
+        POSTGRES_USER: airflow
+        POSTGRES_PASSWORD: airflow
+        POSTGRES_DB: airflow
+      volumes:
+        - postgres_data:/var/lib/postgresql/data
+      ports:
+        - "5432:5432"
+
+    mongodb:  # ✅ CORRECT: même indentation que 'postgres:'
+      image: mongo:6
+      container_name: marketeye_mongodb
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: admin
+        MONGO_INITDB_ROOT_PASSWORD: password
+      ports:
+        - "27017:27017"
+      volumes:
+        - mongodb_data:/data/db
+
+    airflow-webserver:
+      image: apache/airflow:2.7.0
+      environment:
+        AIRFLOW__CORE__EXECUTOR: LocalExecutor
+        AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+        AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+        AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+        AIRFLOW__WEBSERVER__EXPOSE_CONFIG: 'true'
+        AIRFLOW__WEBSERVER__RBAC: 'true'
+        _AIRFLOW_DB_MIGRATE: 'true'  # Changé de _AIRFLOW_DB_UPGRADE
+        _AIRFLOW_WWW_USER_CREATE: 'true'
+        _AIRFLOW_WWW_USER_USERNAME: admin
+        _AIRFLOW_WWW_USER_PASSWORD: admin
+      volumes:
+        - ./dags:/opt/airflow/dags
+        - ./plugins:/opt/airflow/plugins
+        - ./config:/opt/airflow/config
+        - ./scripts:/opt/airflow/scripts
+        - ./data:/opt/airflow/data
+        - ./requirements.txt:/opt/airflow/requirements.txt
+      ports:
+        - "8080:8080"
+      command: >
+        bash -c "pip install -r requirements.txt && airflow webserver"
+      depends_on:
+        - postgres
+        - mongodb  # ✅ Ajouté
+      restart: always
+
+    airflow-scheduler:
+      image: apache/airflow:2.7.0
+      environment:
+        AIRFLOW__CORE__EXECUTOR: LocalExecutor
+        AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+        AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+        AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+        _AIRFLOW_DB_MIGRATE: 'true'  # Changé de _AIRFLOW_DB_UPGRADE
+      volumes:
+        - ./dags:/opt/airflow/dags
+        - ./plugins:/opt/airflow/plugins
+        - ./config:/opt/airflow/config
+        - ./scripts:/opt/airflow/scripts
+        - ./data:/opt/airflow/data
+        - ./requirements.txt:/opt/airflow/requirements.txt
+      command: >
+        bash -c "pip install -r requirements.txt && airflow scheduler"
+      depends_on:
+        - postgres
+        - mongodb  # ✅ Ajouté
+      restart: always
+
+  volumes:
+    postgres_data:
+    mongodb_data:

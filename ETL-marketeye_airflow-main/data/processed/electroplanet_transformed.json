@@ -1,0 +1,2174 @@
+[
+  {
+    "product_id": "samsung_sms936bdbdtur",
+    "brand": "Samsung",
+    "model": "SM-S936BDBDTUR",
+    "product_name": "SAMSUNGGALAXY S25PLUS 12GB 51...Promo",
+    "specifications": {
+      "storage": "512 Go",
+      "ram": "12 Go",
+      "model": "SM-S936BDBDTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3073049-galaxy-s25plus-12gb-512gb-navy-samsung.html",
+        "scraped_at": "2025-11-08 02:22:20"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.967758",
+      "last_updated": "2026-02-03T08:06:41.967777"
+    }
+  },
+  {
+    "product_id": "samsung_sms936blgdtur",
+    "brand": "Samsung",
+    "model": "SM-S936BLGDTUR",
+    "product_name": "SAMSUNGGALAXY S25PLUS 12GB 51...Promo",
+    "specifications": {
+      "storage": "512 Go",
+      "ram": "12 Go",
+      "model": "SM-S936BLGDTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3073047-galaxy-s25plus-12gb-512gb-mint-samsung.html",
+        "scraped_at": "2025-11-08 02:22:30"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.967853",
+      "last_updated": "2026-02-03T08:06:41.967859"
+    }
+  },
+  {
+    "product_id": "samsung_sms938bzsgtur",
+    "brand": "Samsung",
+    "model": "SM-S938BZSGTUR",
+    "product_name": "SAMSUNGGALAXY S25PLUS 12GB 51...Promo",
+    "specifications": {
+      "storage": "512 Go",
+      "ram": "12 Go",
+      "model": "SM-S938BZSGTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3073046-galaxy-s25plus-12gb-512gb-silver-shadow-samsung.html",
+        "scraped_at": "2025-11-08 02:22:38"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.967894",
+      "last_updated": "2026-02-03T08:06:41.967899"
+    }
+  },
+  {
+    "product_id": "samsung_sms936bdbdtur",
+    "brand": "Samsung",
+    "model": "SM-S936BDBDTUR",
+    "product_name": "SAMSUNGGALAXY S25PLUS 12GB 25...Promo",
+    "specifications": {
+      "storage": "256 Go",
+      "ram": "12 Go",
+      "model": "SM-S936BDBDTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3073045-galaxy-s25plus-12gb-256gb-navy-samsung.html",
+        "scraped_at": "2025-11-08 02:22:47"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.967942",
+      "last_updated": "2026-02-03T08:06:41.967947"
+    }
+  },
+  {
+    "product_id": "samsung_sms936bzsdtur",
+    "brand": "Samsung",
+    "model": "SM-S936BZSDTUR",
+    "product_name": "SAMSUNGGALAXY S25PLUS 12GB 25...Promo",
+    "specifications": {
+      "storage": "256 Go",
+      "ram": "12 Go",
+      "model": "SM-S936BZSDTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3073042-galaxy-s25plus-12gb-256gb-silver-shadow-samsung.html",
+        "scraped_at": "2025-11-08 02:22:58"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.968104",
+      "last_updated": "2026-02-03T08:06:41.968110"
+    }
+  },
+  {
+    "product_id": "samsung_sms938bzsgtur",
+    "brand": "Samsung",
+    "model": "SM-S938BZSGTUR",
+    "product_name": "SAMSUNGGALAXY S25ULTRA 12GB51...Promo",
+    "specifications": {
+      "storage": "512 Go",
+      "ram": "12 Go",
+      "model": "SM-S938BZSGTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3073054-galaxy-s25ultra-12gb512gb-titanwhitesilver-samsun.html",
+        "scraped_at": "2025-11-08 02:23:08"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.968159",
+      "last_updated": "2026-02-03T08:06:41.968164"
+    }
+  },
+  {
+    "product_id": "samsung_sms931bzsgtur",
+    "brand": "Samsung",
+    "model": "SM-S931BZSGTUR",
+    "product_name": "SAMSUNGGALAXY S25 12GB 256GB ...Promo",
+    "specifications": {
+      "storage": "256 Go",
+      "ram": "12 Go",
+      "model": "SM-S931BZSGTUR"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3073034-galaxy-s25-12gb-256gb-silver-shadow-samsung.html",
+        "scraped_at": "2025-11-08 02:23:17"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.968339",
+      "last_updated": "2026-02-03T08:06:41.968348"
+    }
+  },
+  {
+    "product_id": "samsung_a06",
+    "brand": "Samsung",
+    "model": "A06",
+    "product_name": "SAMSUNGSMARTPHONE A06 4+64GB ...Promo",
+    "specifications": {
+      "ram": "4 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048260-smartphone-a06-4-64gb-light-blue-samsung.html",
+        "scraped_at": "2025-11-08 02:23:27"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.968952",
+      "last_updated": "2026-02-03T08:06:41.968967"
+    }
+  },
+  {
+    "product_id": "samsung_a06",
+    "brand": "Samsung",
+    "model": "A06",
+    "product_name": "SAMSUNGSMARTPHONE A06 4+64GB ...Promo",
+    "specifications": {
+      "ram": "4 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048262-smartphone-a06-4-64gb-blue-black-samsung.html",
+        "scraped_at": "2025-11-08 02:23:37"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969018",
+      "last_updated": "2026-02-03T08:06:41.969023"
+    }
+  },
+  {
+    "product_id": "samsung_a06",
+    "brand": "Samsung",
+    "model": "A06",
+    "product_name": "SAMSUNGSMARTPHONE A06 4+128GB...Promo",
+    "specifications": {
+      "ram": "4 GB"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 249.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048264-smartphone-a06-4-128gb-gold-samsung.html",
+        "scraped_at": "2025-11-08 02:23:46"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969076",
+      "last_updated": "2026-02-03T08:06:41.969082"
+    }
+  },
+  {
+    "product_id": "samsung_a06",
+    "brand": "Samsung",
+    "model": "A06",
+    "product_name": "SAMSUNGSMARTPHONE A06 6+128GB...Promo",
+    "specifications": {
+      "ram": "6 GB"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048258-smartphone-a06-6-128gb-gold-samsung.html",
+        "scraped_at": "2025-11-08 02:23:56"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969124",
+      "last_updated": "2026-02-03T08:06:41.969129"
+    }
+  },
+  {
+    "product_id": "samsung_smartphonea06",
+    "brand": "Samsung",
+    "model": "SMARTPHONEA06",
+    "product_name": "SAMSUNGSMARTPHONEA06 6+128GB ...Promo",
+    "specifications": {
+      "ram": "6 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048257-smartphonea06-6-128gb-light-blue-samsung.html",
+        "scraped_at": "2025-11-08 02:24:07"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969169",
+      "last_updated": "2026-02-03T08:06:41.969173"
+    }
+  },
+  {
+    "product_id": "huawei_x6b",
+    "brand": "Huawei",
+    "model": "X6B",
+    "product_name": "HONORSMARTPHONE X6B 6GB+128...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 599.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3044482-smartphone-x6b-6gb-128gb-green-dual-sim-honor.html",
+        "scraped_at": "2025-11-08 02:24:16"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969211",
+      "last_updated": "2026-02-03T08:06:41.969215"
+    }
+  },
+  {
+    "product_id": "samsung_smartphonea06",
+    "brand": "Samsung",
+    "model": "SMARTPHONEA06",
+    "product_name": "SAMSUNGSMARTPHONEA06 4+128GB ...",
+    "specifications": {
+      "ram": "4 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 249.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048265-smartphonea06-4-128gb-blue-black-samsung.html",
+        "scraped_at": "2025-11-08 02:24:27"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969246",
+      "last_updated": "2026-02-03T08:06:41.969250"
+    }
+  },
+  {
+    "product_id": "samsung_smartphonea06",
+    "brand": "Samsung",
+    "model": "SMARTPHONEA06",
+    "product_name": "SAMSUNGSMARTPHONEA06 4+128GB ...",
+    "specifications": {
+      "ram": "4 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 249.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048263-smartphonea06-4-128gb-light-blue-samsung.html",
+        "scraped_at": "2025-11-08 02:24:37"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969275",
+      "last_updated": "2026-02-03T08:06:41.969278"
+    }
+  },
+  {
+    "product_id": "samsung_a06",
+    "brand": "Samsung",
+    "model": "A06",
+    "product_name": "SAMSUNGSMARTPHONE A06 4+64GB ...Promo",
+    "specifications": {
+      "ram": "4 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048261-smartphone-a06-4-64gb-gold-samsung.html",
+        "scraped_at": "2025-11-08 02:24:47"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969320",
+      "last_updated": "2026-02-03T08:06:41.969324"
+    }
+  },
+  {
+    "product_id": "samsung_smartphonea06",
+    "brand": "Samsung",
+    "model": "SMARTPHONEA06",
+    "product_name": "SAMSUNGSMARTPHONEA06 6+128GB ...Promo",
+    "specifications": {
+      "ram": "6 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3048259-smartphonea06-6-128gb-blue-black-samsung.html",
+        "scraped_at": "2025-11-08 02:24:57"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969351",
+      "last_updated": "2026-02-03T08:06:41.969355"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  6GB 128GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "60",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053803-galaxy-a16-6gb-128gb-gray-samsung.html",
+        "scraped_at": "2025-11-08 02:25:05"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969387",
+      "last_updated": "2026-02-03T08:06:41.969392"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  8GB 256GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053806-galaxy-a16-8gb-256gb-gray-samsung.html",
+        "scraped_at": "2025-11-08 02:25:15"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969418",
+      "last_updated": "2026-02-03T08:06:41.969422"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  8GB 256GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3053805-galaxy-a16-8gb-256gb-light-green-samsung.html",
+        "scraped_at": "2025-11-08 02:25:24"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969454",
+      "last_updated": "2026-02-03T08:06:41.969460"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  6GB 128GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "90",
+        "reviews_count": 2,
+        "url": "https://www.electroplanet.ma/p3053804-galaxy-a16-6gb-128gb-black-samsung.html",
+        "scraped_at": "2025-11-08 02:25:34"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969488",
+      "last_updated": "2026-02-03T08:06:41.969493"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  8GB 256GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3053807-galaxy-a16-8gb-256gb-black-samsung.html",
+        "scraped_at": "2025-11-08 02:25:45"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969517",
+      "last_updated": "2026-02-03T08:06:41.969521"
+    }
+  },
+  {
+    "product_id": "samsung_galaxya16",
+    "brand": "Samsung",
+    "model": "Galaxy A16",
+    "product_name": "SAMSUNGGALAXY A16  6GB 128GB ...",
+    "specifications": {
+      "model": "Galaxy A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053802-galaxy-a16-6gb-128gb-light-green-samsung.html",
+        "scraped_at": "2025-11-08 02:25:54"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969596",
+      "last_updated": "2026-02-03T08:06:41.969603"
+    }
+  },
+  {
+    "product_id": "samsung_a16",
+    "brand": "Samsung",
+    "model": "A16",
+    "product_name": "SAMSUNGGALAXY A16  4GB 128GB ...",
+    "specifications": {
+      "model": "A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 749.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053801-galaxy-a16-4gb-128gb-black-samsung.html",
+        "scraped_at": "2025-11-08 02:26:04"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969649",
+      "last_updated": "2026-02-03T08:06:41.969653"
+    }
+  },
+  {
+    "product_id": "samsung_galaxya165g",
+    "brand": "Samsung",
+    "model": "Galaxy A16 5G",
+    "product_name": "SAMSUNGGALAXY A16  4GB 128GB ...",
+    "specifications": {
+      "model": "Galaxy A16 5G"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 749.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053800-galaxy-a16-4gb-128gb-gray-samsung.html",
+        "scraped_at": "2025-11-08 02:26:14"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969691",
+      "last_updated": "2026-02-03T08:06:41.969696"
+    }
+  },
+  {
+    "product_id": "samsung_galaxya16",
+    "brand": "Samsung",
+    "model": "Galaxy A16",
+    "product_name": "SAMSUNGGALAXY A16  4GB 128GB ...",
+    "specifications": {
+      "model": "Galaxy A16"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 749.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3053799-galaxy-a16-4gb-128gb-light-green-samsung.html",
+        "scraped_at": "2025-11-08 02:26:24"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969726",
+      "last_updated": "2026-02-03T08:06:41.969731"
+    }
+  },
+  {
+    "product_id": "oppo_a38",
+    "brand": "Oppo",
+    "model": "A38",
+    "product_name": "OPPOSMARTPHONE OPPO A38 GL...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 849.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3029561-smartphone-oppo-a38-glowing-black-128g-6go.html",
+        "scraped_at": "2025-11-08 02:26:34"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969780",
+      "last_updated": "2026-02-03T08:06:41.969785"
+    }
+  },
+  {
+    "product_id": "oppo_a38",
+    "brand": "Oppo",
+    "model": "A38",
+    "product_name": "OPPOSMARTPHONE OPPO A38 GL...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 849.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3029560-smartphone-oppo-a38-glowing-gold-128go-6go.html",
+        "scraped_at": "2025-11-08 02:26:44"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969826",
+      "last_updated": "2026-02-03T08:06:41.969831"
+    }
+  },
+  {
+    "product_id": "unknown_unknown",
+    "brand": "Unknown",
+    "model": "Unknown",
+    "product_name": "VIVOSMARTPHONE POSTE VIVO ...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 49.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3029005-smartphone-poste-vivo-y27s-garden-green-256-8gb.html",
+        "scraped_at": "2025-11-08 02:26:53"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969889",
+      "last_updated": "2026-02-03T08:06:41.969896"
+    }
+  },
+  {
+    "product_id": "unknown_unknown",
+    "brand": "Unknown",
+    "model": "Unknown",
+    "product_name": "VIVOSMARTPHONE POSTE VIVO ...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 499.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3029003-smartphone-poste-vivo-y17s-glitter-purple-6-128g.html",
+        "scraped_at": "2025-11-08 02:27:03"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.969973",
+      "last_updated": "2026-02-03T08:06:41.969979"
+    }
+  },
+  {
+    "product_id": "tecno_kj6sp",
+    "brand": "Tecno",
+    "model": "KJ6SP",
+    "product_name": "TECNOSMARTPHONE TECNO KJ6SP...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 99.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3029001-smartphone-tecno-kj6spark-20pro-8-256g-sunsetblus.html",
+        "scraped_at": "2025-11-08 02:27:12"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970021",
+      "last_updated": "2026-02-03T08:06:41.970026"
+    }
+  },
+  {
+    "product_id": "tecno_kj5",
+    "brand": "Tecno",
+    "model": "KJ5",
+    "product_name": "TECNOSMARTPHONE TECNO KJ5 S...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 699.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3028999-smartphone-tecno-kj5-spark-20-8-256g-bue.html",
+        "scraped_at": "2025-11-08 02:27:21"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970069",
+      "last_updated": "2026-02-03T08:06:41.970074"
+    }
+  },
+  {
+    "product_id": "tecno_kj5",
+    "brand": "Tecno",
+    "model": "KJ5",
+    "product_name": "TECNOSMARTPHONE TECNO KJ5 S...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 699.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3028998-smartphone-tecno-kj5-spark-20-8-256g-black.html",
+        "scraped_at": "2025-11-08 02:27:31"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970116",
+      "last_updated": "2026-02-03T08:06:41.970122"
+    }
+  },
+  {
+    "product_id": "tecno_bg6",
+    "brand": "Tecno",
+    "model": "BG6",
+    "product_name": "TECNOSMARTPHONE TECNO BG6 S...",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 199.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3028997-smartphone-tecno-bg6-spark-go-2024-4-128-green.html",
+        "scraped_at": "2025-11-08 02:27:41"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970158",
+      "last_updated": "2026-02-03T08:06:41.970163"
+    }
+  },
+  {
+    "product_id": "huawei_x8b",
+    "brand": "Huawei",
+    "model": "X8B",
+    "product_name": "HONORSMARTPHONE  HONOR X8B ...Promo",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 299.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3025298-smartphone-honor-x8b-8gb-512gb-midnight-black.html",
+        "scraped_at": "2025-11-08 02:27:49"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970208",
+      "last_updated": "2026-02-03T08:06:41.970213"
+    }
+  },
+  {
+    "product_id": "huawei_h90",
+    "brand": "Huawei",
+    "model": "H90",
+    "product_name": "HONORSMARTPHONE H90 12GB 51...Promo",
+    "specifications": {
+      "ram": "12 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 899.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994166-smartphone-h90-12gb-512gb-diamond-silver-honor.html",
+        "scraped_at": "2025-11-08 02:28:00"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970256",
+      "last_updated": "2026-02-03T08:06:41.970261"
+    }
+  },
+  {
+    "product_id": "oppo_a58",
+    "brand": "Oppo",
+    "model": "A58",
+    "product_name": "OPPOSMARTPHONE A58 GLOWING...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 399.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3018118-smartphone-a58-glowing-black-8go-128go.html",
+        "scraped_at": "2025-11-08 02:28:09"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970320",
+      "last_updated": "2026-02-03T08:06:41.970325"
+    }
+  },
+  {
+    "product_id": "oppo_a58",
+    "brand": "Oppo",
+    "model": "A58",
+    "product_name": "OPPOSMARTPHONE A58 DAZZLIN...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 399.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3018069-smartphone-a58-dazzling-green-8go-128go.html",
+        "scraped_at": "2025-11-08 02:28:18"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970366",
+      "last_updated": "2026-02-03T08:06:41.970370"
+    }
+  },
+  {
+    "product_id": "oppo_a38",
+    "brand": "Oppo",
+    "model": "A38",
+    "product_name": "OPPOSMARTPHONE A38 4GO 128...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 799.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2992425-smartphone-a38-4go-128go-6-56-gold-oppo.html",
+        "scraped_at": "2025-11-08 02:28:27"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970411",
+      "last_updated": "2026-02-03T08:06:41.970416"
+    }
+  },
+  {
+    "product_id": "samsung_a15",
+    "brand": "Samsung",
+    "model": "A15",
+    "product_name": "SAMSUNGSMARTPHONE A15 8G/256G...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3016744-smartphone-a15-8g-256g-light-blue-samsung.html",
+        "scraped_at": "2025-11-08 02:28:36"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970455",
+      "last_updated": "2026-02-03T08:06:41.970460"
+    }
+  },
+  {
+    "product_id": "samsung_a05s",
+    "brand": "Samsung",
+    "model": "A05S",
+    "product_name": "SAMSUNGSMARTPHONE GALAXY A05S...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3021774-smartphone-galaxy-a05s-4-128gb-light-violet.html",
+        "scraped_at": "2025-11-08 02:28:46"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970526",
+      "last_updated": "2026-02-03T08:06:41.970534"
+    }
+  },
+  {
+    "product_id": "samsung_a05s",
+    "brand": "Samsung",
+    "model": "A05S",
+    "product_name": "SAMSUNGSMARTPHONE A05S 6/128G...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 249.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3016697-smartphone-a05s-6-128g-silver-samsung.html",
+        "scraped_at": "2025-11-08 02:28:54"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970595",
+      "last_updated": "2026-02-03T08:06:41.970602"
+    }
+  },
+  {
+    "product_id": "samsung_a05s",
+    "brand": "Samsung",
+    "model": "A05S",
+    "product_name": "SAMSUNGSMARTPHONE A05S 4/128G...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3016696-smartphone-a05s-4-128g-silver-samsung.html",
+        "scraped_at": "2025-11-08 02:29:03"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970642",
+      "last_updated": "2026-02-03T08:06:41.970647"
+    }
+  },
+  {
+    "product_id": "samsung_a25",
+    "brand": "Samsung",
+    "model": "A25",
+    "product_name": "SAMSUNGGALAXY A25 8/256 SM-...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3015776-galaxy-a25-8-256-sm-a256ezkhmwd-blue-black.html",
+        "scraped_at": "2025-11-08 02:29:13"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970688",
+      "last_updated": "2026-02-03T08:06:41.970693"
+    }
+  },
+  {
+    "product_id": "samsung_a05s",
+    "brand": "Samsung",
+    "model": "A05S",
+    "product_name": "SAMSUNGGALAXY A05S 4/128 SM-A...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3015824-galaxy-a05s-4-128-sm-a057fzkgmwd-black.html",
+        "scraped_at": "2025-11-08 02:29:22"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970735",
+      "last_updated": "2026-02-03T08:06:41.970740"
+    }
+  },
+  {
+    "product_id": "samsung_a05",
+    "brand": "Samsung",
+    "model": "A05",
+    "product_name": "SAMSUNGGALAXY A05  4/128 SM...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 749.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3015825-galaxy-a05-4-128-sm-a055fzkgmwd-black.html",
+        "scraped_at": "2025-11-08 02:29:32"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970779",
+      "last_updated": "2026-02-03T08:06:41.970784"
+    }
+  },
+  {
+    "product_id": "samsung_s24",
+    "brand": "Samsung",
+    "model": "S24",
+    "product_name": "SAMSUNGSMARTPHONE S24+ 12G/25...Promo",
+    "specifications": {
+      "ram": "12 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 490.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3018023-samsung-galaxy-s24-plus-256-go-violet.html",
+        "scraped_at": "2025-11-08 02:29:42"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970821",
+      "last_updated": "2026-02-03T08:06:41.970825"
+    }
+  },
+  {
+    "product_id": "samsung_s24",
+    "brand": "Samsung",
+    "model": "S24",
+    "product_name": "SAMSUNGSMARTPHONE S24 8/256G ...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 990.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3018021-samsung-galaxy-s24-256-go.html",
+        "scraped_at": "2025-11-08 02:29:52"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970864",
+      "last_updated": "2026-02-03T08:06:41.970869"
+    }
+  },
+  {
+    "product_id": "apple_unknown",
+    "brand": "Apple",
+    "model": "Unknown",
+    "product_name": "APPLEIPHONE AIR",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 19900.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "90",
+        "reviews_count": 2,
+        "url": "https://www.electroplanet.ma/pc3106698-iphone-air.html",
+        "scraped_at": "2025-11-08 02:30:09"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970916",
+      "last_updated": "2026-02-03T08:06:41.970922"
+    }
+  },
+  {
+    "product_id": "apple_iphone17",
+    "brand": "Apple",
+    "model": "IPHONE 17",
+    "product_name": "APPLEIPHONE 17 PRO MAX",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 0.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/pc3106686-iphone-17-pro-max.html",
+        "scraped_at": "2025-11-08 02:30:16"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.970963",
+      "last_updated": "2026-02-03T08:06:41.970969"
+    }
+  },
+  {
+    "product_id": "apple_iphone17",
+    "brand": "Apple",
+    "model": "IPHONE 17",
+    "product_name": "APPLEIPHONE 17 256GB BLACK ...Nouveau",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 599.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3106667-iphone-17-256gb-black-mg6j4af-a-apple.html",
+        "scraped_at": "2025-11-08 02:30:34"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971011",
+      "last_updated": "2026-02-03T08:06:41.971017"
+    }
+  },
+  {
+    "product_id": "apple_air256gb",
+    "brand": "Apple",
+    "model": "AIR 256GB",
+    "product_name": "APPLEIPHONE AIR 256GB SKY B...",
+    "specifications": {
+      "ram": "12 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 199.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "90",
+        "reviews_count": 2,
+        "url": "https://www.electroplanet.ma/p3106701-iphone-air-256gb-sky-blue-mg2p4af-a-apple.html",
+        "scraped_at": "2025-11-08 02:30:50"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971051",
+      "last_updated": "2026-02-03T08:06:41.971057"
+    }
+  },
+  {
+    "product_id": "apple_air256gb",
+    "brand": "Apple",
+    "model": "AIR 256GB",
+    "product_name": "APPLEIPHONE AIR 256GB SPACE...",
+    "specifications": {
+      "ram": "12 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 199.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3106698-iphone-air-256gb-space-black-mg2l4af-a-apple.html",
+        "scraped_at": "2025-11-08 02:31:11"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971097",
+      "last_updated": "2026-02-03T08:06:41.971101"
+    }
+  },
+  {
+    "product_id": "apple_iphone16e",
+    "brand": "Apple",
+    "model": "IPHONE 16E",
+    "product_name": "APPLEIPHONE 16E",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 99900.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/pc3080536-iphone-16e.html",
+        "scraped_at": "2025-11-08 02:31:33"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971131",
+      "last_updated": "2026-02-03T08:06:41.971136"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO MAX",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 49900.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/pc3051177-iphone-16-pro-max.html",
+        "scraped_at": "2025-11-08 02:31:41"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971168",
+      "last_updated": "2026-02-03T08:06:41.971173"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 79900.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/pc3051153-iphone-16-pro.html",
+        "scraped_at": "2025-11-08 02:31:57"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971205",
+      "last_updated": "2026-02-03T08:06:41.971209"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 128GB BLACK ...Promo",
+    "specifications": {
+      "ram": "8 GB"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 399.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3051123-iphone-16-128gb-black-mye73-apple.html",
+        "scraped_at": "2025-11-08 02:32:23"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971243",
+      "last_updated": "2026-02-03T08:06:41.971248"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO MAX 512G...Promo",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 979.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3051175-iphone-16-pro-max-512gb-desert-tit-myx23-apple.html",
+        "scraped_at": "2025-11-08 02:32:45"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971278",
+      "last_updated": "2026-02-03T08:06:41.971283"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO MAX 256G...Promo",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3051171-iphone-16-pro-max-256gb-desert-tit-mywx3-apple.html",
+        "scraped_at": "2025-11-08 02:33:15"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971312",
+      "last_updated": "2026-02-03T08:06:41.971316"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO 256GB DE...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 779.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3051159-iphone-16-pro-256gb-desert-titanium-mynk3-apple.html",
+        "scraped_at": "2025-11-08 02:33:31"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971346",
+      "last_updated": "2026-02-03T08:06:41.971350"
+    }
+  },
+  {
+    "product_id": "apple_iphone16",
+    "brand": "Apple",
+    "model": "IPHONE 16",
+    "product_name": "APPLEIPHONE 16 PRO 128GB DE...Promo",
+    "specifications": {
+      "ram": "8 GB"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 899.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3051155-iphone-16-pro-128gb-desert-titanium-mynf3-apple.html",
+        "scraped_at": "2025-11-08 02:33:47"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971385",
+      "last_updated": "2026-02-03T08:06:41.971389"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO 256GB BL...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2993121-iphone-15-pro-256gb-blue-titaniummtv63.html",
+        "scraped_at": "2025-11-08 02:33:54"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971419",
+      "last_updated": "2026-02-03T08:06:41.971423"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO 256GB NA...Promo",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p2993120-iphone-15-pro-256gb-natural-titaniummtv53.html",
+        "scraped_at": "2025-11-08 02:34:10"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971452",
+      "last_updated": "2026-02-03T08:06:41.971456"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO 256 WHIT...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3010386-iphone-15-pro-256-white-titaniummtv43.html",
+        "scraped_at": "2025-11-08 02:34:26"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971513",
+      "last_updated": "2026-02-03T08:06:41.971519"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO 256GB BL...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p2993119-iphone-15-pro-256gb-black-titaniummtv13.html",
+        "scraped_at": "2025-11-08 02:34:42"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971588",
+      "last_updated": "2026-02-03T08:06:41.971595"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO 128 WHIT...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 499.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p3010385-iphone-15-pro-128-white-titaniummtuw3.html",
+        "scraped_at": "2025-11-08 02:35:00"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971638",
+      "last_updated": "2026-02-03T08:06:41.971643"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PLUS 512 BLUEMU1P3Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 779.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3010383-iphone-15-plus-512-bluemu1p3.html",
+        "scraped_at": "2025-11-08 02:35:15"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971675",
+      "last_updated": "2026-02-03T08:06:41.971680"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PLUS 256GB B...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 259.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994182-iphone-15-plus-256gb-blackmu183.html",
+        "scraped_at": "2025-11-08 02:35:35"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971709",
+      "last_updated": "2026-02-03T08:06:41.971713"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 512 BLACKMTPC3Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 359.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3010373-iphone-15-512-blackmtpc3.html",
+        "scraped_at": "2025-11-08 02:35:53"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971752",
+      "last_updated": "2026-02-03T08:06:41.971757"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 256GB BLUEMTP93Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 799.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994180-iphone-15-256gb-bluemtp93.html",
+        "scraped_at": "2025-11-08 02:36:12"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971792",
+      "last_updated": "2026-02-03T08:06:41.971796"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 256GB YELLOWMTP83Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 799.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": null,
+        "reviews_count": 0,
+        "url": "https://www.electroplanet.ma/p2994179-iphone-15-256gb-yellowmtp83.html",
+        "scraped_at": "2025-11-08 02:36:29"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971827",
+      "last_updated": "2026-02-03T08:06:41.971831"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 256 GREENMTPA3Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 799.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p3010372-iphone-15-256-greenmtpa3.html",
+        "scraped_at": "2025-11-08 02:36:47"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971860",
+      "last_updated": "2026-02-03T08:06:41.971864"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PLUS 128GB B...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 399.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994195-iphone-15-plus-128gb-bluemu163.html",
+        "scraped_at": "2025-11-08 02:37:03"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971893",
+      "last_updated": "2026-02-03T08:06:41.971897"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 128GB BLACK MTP03Promo",
+    "specifications": {
+      "ram": "6 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994176-iphone-15-128gb-black-mtp03.html",
+        "scraped_at": "2025-11-08 02:37:23"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971927",
+      "last_updated": "2026-02-03T08:06:41.971932"
+    }
+  },
+  {
+    "product_id": "apple_cpoiphone11",
+    "brand": "Apple",
+    "model": "CPOIPHONE 11",
+    "product_name": "APPLE CPOIPHONE 11 PRO 64G SILV...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2957435-apple-cpo-iphone-11-pro-64g-silver.html",
+        "scraped_at": "2025-11-08 02:37:41"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.971978",
+      "last_updated": "2026-02-03T08:06:41.971984"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PLUS 128GB B...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 399.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994181-apple-iphone-15-plus-128-go-noir.html",
+        "scraped_at": "2025-11-08 02:37:56"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.972017",
+      "last_updated": "2026-02-03T08:06:41.972022"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 128GB BLUEMTP43Promo",
+    "specifications": {
+      "ram": "6 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2994192.html",
+        "scraped_at": "2025-11-08 02:38:15"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.972080",
+      "last_updated": "2026-02-03T08:06:41.972088"
+    }
+  },
+  {
+    "product_id": "apple_iphone15",
+    "brand": "Apple",
+    "model": "IPHONE 15",
+    "product_name": "APPLEIPHONE 15 PRO MAX 256G...Promo",
+    "specifications": {
+      "ram": "8 Go"
+    },
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 999.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "100",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2993123-apple-iphone-15-pro-max-256go.html",
+        "scraped_at": "2025-11-08 02:38:31"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.972131",
+      "last_updated": "2026-02-03T08:06:41.972136"
+    }
+  },
+  {
+    "product_id": "apple_iphone14",
+    "brand": "Apple",
+    "model": "IPHONE 14",
+    "product_name": "APPLEIPHONE 14 PRO MAX 128G...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 790.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "20",
+        "reviews_count": 1,
+        "url": "https://www.electroplanet.ma/p2967486-apple-iphone-14-pro-max-128go-deep-purple.html",
+        "scraped_at": "2025-11-08 02:38:47"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.972174",
+      "last_updated": "2026-02-03T08:06:41.972179"
+    }
+  },
+  {
+    "product_id": "apple_iphone13",
+    "brand": "Apple",
+    "model": "IPHONE 13",
+    "product_name": "APPLEIPHONE 13  128G MIDNI...Promo",
+    "specifications": {},
+    "offers": [
+      {
+        "source": "Electroplanet",
+        "price": 599.0,
+        "currency": "MAD",
+        "condition": "new",
+        "rating": "90",
+        "reviews_count": 2,
+        "url": "https://www.electroplanet.ma/p2908600-apple-iphone-13-128go-midnight.html",
+        "scraped_at": "2025-11-08 02:39:03"
+      }
+    ],
+    "metadata": {
+      "sources": [
+        "Electroplanet"
+      ],
+      "created_at": "2026-02-03T08:06:41.972235",
+      "last_updated": "2026-02-03T08:06:41.972242"
+    }
+  }
+]

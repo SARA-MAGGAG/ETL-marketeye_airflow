@@ -1,0 +1,12 @@
+{
+  "total_products": 5672,
+  "total_offers": 25660,
+  "avg_price": 3792.413086373365,
+  "min_price": 1.0,
+  "max_price": 99900.0,
+  "sources": [
+    "Avito",
+    "Electroplanet",
+    "Jumia"
+  ]
+}
