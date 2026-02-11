@@ -166,7 +166,7 @@ docker-compose up -d
 ## Auteur
 
 **Rachid Amaliki**
-- GitHub: [@rachidamaliki](https://github.com/rachidamaliki)
+- GitHub: [@SARAMAGGAG](https://github.com/SARA-MAGGAG))
 
 ## Licence
 
